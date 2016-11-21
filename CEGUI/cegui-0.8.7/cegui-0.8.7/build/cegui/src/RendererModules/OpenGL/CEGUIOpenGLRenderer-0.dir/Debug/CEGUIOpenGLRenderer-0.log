@@ -1,0 +1,21 @@
+﻿  Building Custom Rule C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/cegui/src/RendererModules/OpenGL/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\cegui\src\RendererModules\OpenGL\CMakeFiles\generate.stamp is up-to-date.
+  GL.cpp
+  GL3FBOTextureTarget.cpp
+  GL3GeometryBuffer.cpp
+  GL3Renderer.cpp
+  GLFBOTextureTarget.cpp
+  GLGeometryBuffer.cpp
+  GLRenderer.cpp
+  GeometryBufferBase.cpp
+  RendererBase.cpp
+  Shader.cpp
+  ShaderManager.cpp
+  StateChangeWrapper.cpp
+  Texture.cpp
+  TextureTarget.cpp
+  ViewportTarget.cpp
+  WGLPBTextureTarget.cpp
+     C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/lib/CEGUIOpenGLRenderer-0_d.lib 라이브러리 및 C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/lib/CEGUIOpenGLRenderer-0_d.exp 개체를 생성하고 있습니다.
+  CEGUIOpenGLRenderer-0.vcxproj -> C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\bin\CEGUIOpenGLRenderer-0_d.dll
+  CEGUIOpenGLRenderer-0.vcxproj -> C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/bin/CEGUIOpenGLRenderer-0_d.pdb (Full PDB)

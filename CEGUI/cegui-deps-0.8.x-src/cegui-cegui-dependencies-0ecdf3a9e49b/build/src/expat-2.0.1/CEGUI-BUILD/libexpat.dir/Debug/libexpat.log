@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/src/expat-2.0.1/CEGUI-BUILD/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\build\src\expat-2.0.1\CEGUI-BUILD\CMakeFiles\generate.stamp is up-to-date.
+  xmlrole.c
+  xmltok.c
+  xmlparse.c
+  코드를 생성하고 있습니다...
+     C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/build/dependencies/lib/dynamic/libexpat_d.lib 라이브러리 및 C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/build/dependencies/lib/dynamic/libexpat_d.exp 개체를 생성하고 있습니다.
+  libexpat.vcxproj -> C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\build\dependencies\bin\libexpat_d.dll
+  libexpat.vcxproj -> C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/build/dependencies/bin/libexpat_d.pdb (Full PDB)

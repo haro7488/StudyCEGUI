@@ -1,0 +1,38 @@
+﻿  Building Custom Rule C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/src/zlib-1.2.5/CEGUI-BUILD/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\build\src\zlib-1.2.5\CEGUI-BUILD\CMakeFiles\generate.stamp is up-to-date.
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\src\zlib-1.2.5\gzlib.c(160): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(514): note: 'open' 선언을 참조하십시오.
+C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\src\zlib-1.2.5\gzlib.c(184): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(501): note: 'lseek' 선언을 참조하십시오.
+C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\src\zlib-1.2.5\gzlib.c(268): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(501): note: 'lseek' 선언을 참조하십시오.
+C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\src\zlib-1.2.5\gzlib.c(309): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(501): note: 'lseek' 선언을 참조하십시오.
+C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\src\zlib-1.2.5\gzlib.c(404): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(501): note: 'lseek' 선언을 참조하십시오.
+  gzread.c
+C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\src\zlib-1.2.5\gzread.c(31): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(521): note: 'read' 선언을 참조하십시오.
+C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\src\zlib-1.2.5\gzread.c(650): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(457): note: 'close' 선언을 참조하십시오.
+  gzwrite.c
+C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\src\zlib-1.2.5\gzwrite.c(79): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(556): note: 'write' 선언을 참조하십시오.
+C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\src\zlib-1.2.5\gzwrite.c(528): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(457): note: 'close' 선언을 참조하십시오.
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+  코드를 생성하고 있습니다...
+     C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/build/dependencies/lib/dynamic/zlib.lib 라이브러리 및 C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/build/dependencies/lib/dynamic/zlib.exp 개체를 생성하고 있습니다.
+  zlib.vcxproj -> C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\build\dependencies\bin\zlib.dll

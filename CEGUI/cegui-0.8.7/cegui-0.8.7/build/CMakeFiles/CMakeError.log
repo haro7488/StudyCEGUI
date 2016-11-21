@@ -1,0 +1,39 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_ae3b7.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 버전 12.0.31010.0
+[Microsoft .NET Framework, 버전 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2016-11-21 오전 2:05:38
+1 노드의 "C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\CMakeFiles\CMakeTmp\cmTC_ae3b7.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_ae3b7.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_ae3b7.dir\Debug\cmTC_ae3b7.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_ae3b7.dir\Debug\cmTC_ae3b7.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_ae3b7.dir\Debug\\" /Fd"cmTC_ae3b7.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  x86용 Microsoft (R) C/C++ 최적화 컴파일러 버전 18.00.40629
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_ae3b7.dir\Debug\\" /Fd"cmTC_ae3b7.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'pthread.h': No such file or directory [C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\CMakeFiles\CMakeTmp\cmTC_ae3b7.vcxproj]
+"C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\CMakeFiles\CMakeTmp\cmTC_ae3b7.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+
+빌드하지 못했습니다.
+
+"C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\CMakeFiles\CMakeTmp\cmTC_ae3b7.vcxproj"(기본 대상)(1)->
+(ClCompile 대상) -> 
+  C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'pthread.h': No such file or directory [C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\CMakeFiles\CMakeTmp\cmTC_ae3b7.vcxproj]
+
+    경고 0개
+    오류 1개
+
+경과 시간: 00:00:00.23
+
+

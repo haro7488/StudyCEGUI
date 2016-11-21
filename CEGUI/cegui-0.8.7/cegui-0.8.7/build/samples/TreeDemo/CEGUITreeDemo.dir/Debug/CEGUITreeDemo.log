@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/samples/TreeDemo/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\samples\TreeDemo\CMakeFiles\generate.stamp is up-to-date.
+  Sample_TreeDemo.cpp
+     C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/lib/CEGUITreeDemo_d.lib 라이브러리 및 C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/lib/CEGUITreeDemo_d.exp 개체를 생성하고 있습니다.
+  CEGUITreeDemo.vcxproj -> C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\bin\CEGUITreeDemo_d.dll
+  CEGUITreeDemo.vcxproj -> C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/bin/CEGUITreeDemo_d.pdb (Full PDB)

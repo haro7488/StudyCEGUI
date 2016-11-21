@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/samples/DragDropDemo/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\samples\DragDropDemo\CMakeFiles\generate.stamp is up-to-date.
+  Sample_DragDropDemo.cpp
+     C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/lib/CEGUIDragDropDemo.lib 라이브러리 및 C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/lib/CEGUIDragDropDemo.exp 개체를 생성하고 있습니다.
+  CEGUIDragDropDemo.vcxproj -> C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\bin\CEGUIDragDropDemo.dll

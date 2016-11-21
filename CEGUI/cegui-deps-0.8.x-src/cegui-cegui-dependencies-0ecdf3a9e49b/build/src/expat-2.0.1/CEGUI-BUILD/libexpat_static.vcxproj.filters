@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\src\expat-2.0.1\lib\xmlrole.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\src\expat-2.0.1\lib\xmltok.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\src\expat-2.0.1\lib\xmlparse.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\src\expat-2.0.1\CEGUI-BUILD\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{76031D7D-09CF-362B-981C-7F73FD4D7B3E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

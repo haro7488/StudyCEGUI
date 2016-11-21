@@ -1,0 +1,54 @@
+﻿  Building Custom Rule C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/src/jpeg-8c/CEGUI-BUILD/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\build\src\jpeg-8c\CEGUI-BUILD\CMakeFiles\generate.stamp is up-to-date.
+  jaricom.c
+  jcapimin.c
+  jcapistd.c
+  jcarith.c
+  jccoefct.c
+  jccolor.c
+  jcdctmgr.c
+  jchuff.c
+  jcinit.c
+  jcmainct.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdapimin.c
+  jdapistd.c
+  jdarith.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  jdatadst.c
+  jdatasrc.c
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+  jfdctflt.c
+  jfdctfst.c
+  jfdctint.c
+  jidctflt.c
+  jidctfst.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  jidctint.c
+  jmemmgr.c
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+  코드를 생성하고 있습니다...
+  jpeg_static.vcxproj -> C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\build\dependencies\lib\static\jpeg.lib

@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/samples/EffectsDemo/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\samples\EffectsDemo\CMakeFiles\generate.stamp is up-to-date.
+  EffectsDemo.cpp
+     C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/lib/CEGUIEffectsDemo_d.lib 라이브러리 및 C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/lib/CEGUIEffectsDemo_d.exp 개체를 생성하고 있습니다.
+  CEGUIEffectsDemo.vcxproj -> C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\bin\CEGUIEffectsDemo_d.dll
+  CEGUIEffectsDemo.vcxproj -> C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/bin/CEGUIEffectsDemo_d.pdb (Full PDB)

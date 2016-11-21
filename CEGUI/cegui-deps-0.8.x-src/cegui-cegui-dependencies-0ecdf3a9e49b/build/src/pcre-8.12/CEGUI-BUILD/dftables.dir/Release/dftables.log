@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/src/pcre-8.12/CEGUI-BUILD/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\build\src\pcre-8.12\CEGUI-BUILD\CMakeFiles\generate.stamp is up-to-date.
+  dftables.c
+     C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/build/src/pcre-8.12/CEGUI-BUILD/Release/dftables.lib 라이브러리 및 C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/build/src/pcre-8.12/CEGUI-BUILD/Release/dftables.exp 개체를 생성하고 있습니다.
+  dftables.vcxproj -> C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\build\src\pcre-8.12\dftables.exe

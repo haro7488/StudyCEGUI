@@ -1,0 +1,7 @@
+﻿  GeometryBuffer.cpp
+  Renderer.cpp
+  Texture.cpp
+  TextureTarget.cpp
+  ViewportTarget.cpp
+     C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/lib/CEGUIDirect3D9Renderer-0.lib 라이브러리 및 C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/lib/CEGUIDirect3D9Renderer-0.exp 개체를 생성하고 있습니다.
+  CEGUIDirect3D9Renderer-0.vcxproj -> C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\bin\CEGUIDirect3D9Renderer-0.dll

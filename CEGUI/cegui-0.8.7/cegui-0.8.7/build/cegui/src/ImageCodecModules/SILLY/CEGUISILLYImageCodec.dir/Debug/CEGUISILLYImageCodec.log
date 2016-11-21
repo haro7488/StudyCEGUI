@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/cegui/src/ImageCodecModules/SILLY/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\cegui\src\ImageCodecModules\SILLY\CMakeFiles\generate.stamp is up-to-date.
+  ImageCodec.cpp
+  ImageCodecModule.cpp
+     C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/lib/CEGUISILLYImageCodec_d.lib 라이브러리 및 C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/lib/CEGUISILLYImageCodec_d.exp 개체를 생성하고 있습니다.
+  CEGUISILLYImageCodec.vcxproj -> C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\bin\CEGUISILLYImageCodec_d.dll
+  CEGUISILLYImageCodec.vcxproj -> C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/build/bin/CEGUISILLYImageCodec_d.pdb (Full PDB)

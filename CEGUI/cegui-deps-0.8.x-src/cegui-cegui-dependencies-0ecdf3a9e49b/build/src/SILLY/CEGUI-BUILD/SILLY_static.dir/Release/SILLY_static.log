@@ -1,0 +1,17 @@
+﻿  Building Custom Rule C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/src/SILLY/CEGUI-BUILD/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\build\src\SILLY\CEGUI-BUILD\CMakeFiles\generate.stamp is up-to-date.
+  SILLYDataSource.cpp
+  SILLYFileDataSource.cpp
+  SILLYImage.cpp
+  SILLYImageContext.cpp
+  SILLYImageLoader.cpp
+  SILLYImageLoaderManager.cpp
+  SILLYMemoryDataSource.cpp
+  SILLYJPGImageContext.cpp
+  SILLYJPGImageLoader.cpp
+  SILLYPNGImageContext.cpp
+  SILLYPNGImageLoader.cpp
+  SILLYTGAImageContext.cpp
+  SILLYTGAImageLoader.cpp
+  코드를 생성하고 있습니다...
+  SILLY_static.vcxproj -> C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\build\dependencies\lib\static\SILLY.lib

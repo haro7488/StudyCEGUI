@@ -1,0 +1,52 @@
+﻿  Building Custom Rule C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/src/freetype-2.4.4/CEGUI-BUILD/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\build\src\freetype-2.4.4\CEGUI-BUILD\CMakeFiles\generate.stamp is up-to-date.
+  ftsystem.c
+  ftinit.c
+  ftdebug.c
+  ftbase.c
+  ftbbox.c
+  ftglyph.c
+  ftbdf.c
+  ftbitmap.c
+  ftcid.c
+  ftfstype.c
+  ftgasp.c
+  ftgxval.c
+  ftlcdfil.c
+  ftmm.c
+  ftotval.c
+  ftpatent.c
+  ftpfr.c
+  ftstroke.c
+  ftsynth.c
+  fttype1.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  ftwinfnt.c
+  ftxf86.c
+  bdf.c
+  cff.c
+  type1cid.c
+  pcf.c
+  pfr.c
+  sfnt.c
+  truetype.c
+  type1.c
+  type42.c
+  winfnt.c
+  raster.c
+  smooth.c
+  autofit.c
+  ftcache.c
+  ftgzip.c
+  ftlzw.c
+  gxvalid.c
+  otvalid.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  psaux.c
+  pshinter.c
+  psnames.c
+  코드를 생성하고 있습니다...
+     C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/build/dependencies/lib/dynamic/freetype.lib 라이브러리 및 C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-deps-0.8.x-src/cegui-cegui-dependencies-0ecdf3a9e49b/build/dependencies/lib/dynamic/freetype.exp 개체를 생성하고 있습니다.
+  freetype.vcxproj -> C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-deps-0.8.x-src\cegui-cegui-dependencies-0ecdf3a9e49b\build\dependencies\bin\freetype.dll
