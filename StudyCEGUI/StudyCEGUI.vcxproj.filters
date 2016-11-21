@@ -21,7 +21,7 @@
     <ClCompile Include="GUI.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="cube.cpp">
+    <ClCompile Include="colorTriangle.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
