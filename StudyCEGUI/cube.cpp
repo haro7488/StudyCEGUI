@@ -14,14 +14,20 @@
 
 #include "d3dUtility.h"
 
+#include "GUI.h"
+
+using namespace HaroEngine;
+
+GUI g_gui;
+
 //
 // Globals
 //
 
 IDirect3DDevice9* Device = 0; 
 
-const int Width  = 640;
-const int Height = 480;
+const int Width  = 1024;
+const int Height = 768;
 
 IDirect3DVertexBuffer9* VB = 0;
 IDirect3DIndexBuffer9*  IB = 0;
@@ -148,6 +154,17 @@ bool Setup()
 
 	Device->SetRenderState(D3DRS_FILLMODE, D3DFILL_WIREFRAME);
 
+	g_gui.Init(Device, "GUI");
+	g_gui.LoadScheme("TaharezLook.scheme");
+	g_gui.LoadScheme("AlfiskoSkin.scheme");
+	g_gui.SetFont("DejaVuSans-10");
+	g_gui.CreateWidget("AlfiskoSkin/FrameWindow", D3DXVECTOR4(0.1f, 0.1f, 0.2f, 0.5f), D3DXVECTOR4(0.0f, 0.0f, 0.0f, 0.0f), "TestFrameWindow");
+	CEGUI::PushButton* testButton = static_cast<CEGUI::PushButton*>(g_gui.CreateWidget("AlfiskoSkin/Button", D3DXVECTOR4(0.5f, 0.5f, 0.2f, 0.1f), D3DXVECTOR4(0.0f, 0.0f, 0.0f, 0.0f), "TestButton"));
+	testButton->setText("Hello World!");
+
+	g_gui.SetMouseCursor("TaharezLook/MouseArrow");
+	g_gui.ShowMouseCursor();
+
 	return true;
 }
 
@@ -195,6 +212,9 @@ bool Display(float timeDelta)
 
 		// Draw cube.
 		Device->DrawIndexedPrimitive(D3DPT_TRIANGLELIST, 0, 0, 8, 0, 12);
+
+
+		g_gui.Draw();
 
 		Device->EndScene();
 		Device->Present(0, 0, 0, 0);
