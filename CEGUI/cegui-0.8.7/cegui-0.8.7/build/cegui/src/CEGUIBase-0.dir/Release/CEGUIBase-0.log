@@ -86,10 +86,10 @@ C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C409
   WindowFactory.cpp
   WindowFactoryManager.cpp
   WindowManager.cpp
+  WindowRenderer.cpp
 C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\cegui\src\System.cpp(479): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
 C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\cegui\src\System.cpp(511): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
 C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\cegui\src\System.cpp(544): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
-  WindowRenderer.cpp
   WindowRendererManager.cpp
   XMLAttributes.cpp
   XMLParser.cpp

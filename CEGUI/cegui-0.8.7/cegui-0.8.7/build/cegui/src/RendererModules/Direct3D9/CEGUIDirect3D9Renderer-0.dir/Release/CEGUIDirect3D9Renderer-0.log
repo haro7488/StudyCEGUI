@@ -1,4 +1,6 @@
-﻿  GeometryBuffer.cpp
+﻿  Building Custom Rule C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/cegui/src/RendererModules/Direct3D9/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\cegui\src\RendererModules\Direct3D9\CMakeFiles\generate.stamp is up-to-date.
+  GeometryBuffer.cpp
   Renderer.cpp
   Texture.cpp
   TextureTarget.cpp

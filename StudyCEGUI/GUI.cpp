@@ -43,7 +43,7 @@ namespace HaroEngine
 		m_renderer->beginRendering();
 		m_context->draw();
 		m_renderer->endRendering();
-		m_device->SetRenderState(D3DRENDERSTATETYPE::D3DRS_SCISSORTESTENABLE, false);
+		//m_device->SetRenderState(D3DRENDERSTATETYPE::D3DRS_SCISSORTESTENABLE, false);
 	}
 
 	void GUI::SetMouseCursor(const string & imageFile)

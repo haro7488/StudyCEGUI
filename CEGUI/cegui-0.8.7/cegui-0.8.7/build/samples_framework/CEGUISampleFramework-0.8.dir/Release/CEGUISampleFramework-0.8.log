@@ -1,1 +1,21 @@
-﻿LINK : fatal error LNK1181: 'dxerr.lib' 입력 파일을 열 수 없습니다.
+﻿  Building Custom Rule C:/Users/haro7/Desktop/StudyCEGUI/CEGUI/cegui-0.8.7/cegui-0.8.7/samples_framework/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\haro7\Desktop\StudyCEGUI\CEGUI\cegui-0.8.7\cegui-0.8.7\build\samples_framework\CMakeFiles\generate.stamp is up-to-date.
+  SamplesFrameworkBase.cpp
+  SamplesFramework.cpp
+  CEGuiBaseApplication.cpp
+  CEGuiRendererSelector.cpp
+  Samples_xmlHandler.cpp
+  SampleData.cpp
+  MetaDataWindowManager.cpp
+  SamplesBrowserManager.cpp
+  Win32AppHelper.cpp
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Win32CEGuiRendererSelector.cpp
+  CEGuiGLFWSharedBase.cpp
+  CEGuiGLFW2SharedBase.cpp
+  CEGuiOpenGLBaseApplication.cpp
+  CEGuiOpenGL3BaseApplication.cpp
+  CEGuiD3D9BaseApplication.cpp
+  DeviceReset_Direct3D9.cpp
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+LINK : fatal error LNK1181: 'dxerr.lib' 입력 파일을 열 수 없습니다.

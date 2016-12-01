@@ -235,8 +235,6 @@ bool Display(float timeDelta)
 		
 		Device->BeginScene();
 
-		g_gui.Draw();
-
 		Device->SetFVF(ColorVertex::FVF);
 		Device->SetStreamSource(0, Triangle, 0, sizeof(ColorVertex));
 
@@ -254,7 +252,9 @@ bool Display(float timeDelta)
 		Device->SetRenderState(D3DRS_SHADEMODE, D3DSHADE_GOURAUD);
 		Device->DrawPrimitive(D3DPT_TRIANGLELIST, 0, 1);
 
+		
 		Device->EndScene();		
+		g_gui.Draw();
 
 		Device->Present(0, 0, 0, 0);
 	}
